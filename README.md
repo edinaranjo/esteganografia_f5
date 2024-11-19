@@ -1,1 +1,1 @@
-# esteganografia_f5
+# Esteganografía con el algoritmo F5
