@@ -30,7 +30,11 @@
 ~~~
 Donde IPv4 es la dirección de red de su host.
 
-3. En un web browser digitar http://localhost:8501 ó http://<ipv4>:8501
+3. En un web browser digitar http://localhost:8501
 
-4.  Para cargar una imagen se debe dar click en el botón **Browse files**, luego aparecerá un selector de archivos que le permitirá escoger una imagen de formato .jpg o .jpeg
+   
+
+4.  Para cargar una imagen se debe dar click en el botón **Browse files**, luego aparecerá un selector de archivos que le permitirá escoger una imagen de formato .jpg o .jpeg.
+
+5.   Después aparecerá un cuadro de texto para ingresar el mensaje que se va a incrustar en la imagen. El mensaje debe tener máximo 5 caracteres, si ingresa un mayor número de caracteres aparecerá un mensaje de error.
 
