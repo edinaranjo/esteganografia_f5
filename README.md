@@ -38,3 +38,7 @@ Donde IPv4 es la dirección de red de su host.
 
 5.   Después aparecerá un cuadro de texto para ingresar el mensaje que se va a incrustar en la imagen. El mensaje debe tener máximo 5 caracteres, si ingresa un mayor número de caracteres aparecerá un mensaje de error.
 
+6.   Luego de ingresar el mensaje de 5 caracteres, debe pulsar Enter y aparecerá un botón **Incrustar mensaje y mostrar resultados**
+7.   Luego de dar click en el botón **Incrustar mensaje y mostrar resultados** aparecerán la imagen original, la imagen procesada con el texto incrustado, el mensaje extraído y los valores de PSNR, MSE y SSIM.
+8.   Si se desea realizar el proceso con otra imagen, se debe dar click en la X que se encuentra a la derecha del nombre del archivo cargado.
+
