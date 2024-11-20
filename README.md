@@ -4,5 +4,7 @@
 
 1.  Crear un ambiente virtual en python.
 2.  Instalar los paquetes indicados en el archivo requirements.txt en el entorno vitual de python.
+
+   
 `Esto es una línea de código`
-3.  
+ 
