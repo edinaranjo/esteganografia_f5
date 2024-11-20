@@ -28,5 +28,7 @@
   Local URL: http://localhost:8501
   Network URL: http://<ipv4>:8501
 ~~~
-Done IPv4 es la dirección de red de su host.
+Donde IPv4 es la dirección de red de su host.
+
+3. En un web browser digitar http://localhost:8501
 
