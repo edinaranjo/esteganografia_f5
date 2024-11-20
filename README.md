@@ -13,3 +13,20 @@
 
 ***
 ## Ejecución
+
+1. Ejecutar el siguiente comando en el ambiente virtual de python:
+
+  ~~~
+  streamlit run <archivo.py>
+~~~
+
+2. Aparecerá el siguiente mensaje:
+
+ ~~~
+ You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://<ipv4>:8501
+~~~
+Done IPv4 es la dirección de red de su host.
+
