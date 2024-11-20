@@ -8,3 +8,5 @@
  ~~~
   pip3 install -r requirements.txt
 ~~~
+
+3.  Copiar al ambiente virtual el archivo .py que contiene el código de la aplicación.
