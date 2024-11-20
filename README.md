@@ -10,3 +10,6 @@
 ~~~
 
 3.  Copiar al ambiente virtual el archivo .py que contiene el código de la aplicación.
+
+***
+## Ejecución
